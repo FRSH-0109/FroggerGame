@@ -59,7 +59,7 @@ To run **FroggerGame** locally, follow these steps:
 💡 **Tips:**
 - 🛑 Time your moves carefully to avoid oncoming traffic.
 - 🌊 Use floating logs and turtles to cross rivers safely.
-- 🏠 Reach the designated safe zones to advance to the next level.
+- 🏠 Reach the designated zones to make frog safe and get Your score.
 
 ---
 
