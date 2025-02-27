@@ -95,7 +95,6 @@ This project is licensed under the **[MIT License](LICENSE)**.
 ## 🙌 Acknowledgements
 
 🎮 Inspired by the classic **"Frogger"** arcade game.  
-🙏 Thanks to **[insert names or resources]** for **[specific contributions or inspirations]**.  
 
 ---
 
