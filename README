@@ -7,6 +7,11 @@ Navigate your frog across busy roads and treacherous rivers to reach the safety 
 
 ---
 
+Game start position             |  Frog doing nice jumps!
+:-------------------------:|:-------------------------:
+![alt text](imagesForReadme/ss1.png?raw=true)  |  ![alt text](imagesForReadme/ss2.png?raw=true)
+
+
 ## ✨ Features
 
 ✔️ **Classic arcade gameplay with modern graphics**  
@@ -46,10 +51,10 @@ To run **FroggerGame** locally, follow these steps:
 🎯 **Objective:** Guide your frog from the bottom to the top of the screen, avoiding obstacles and hazards.
 
 🕹️ **Controls:**
-- ⬆️ Move Up: `W` or `↑`
-- ⬇️ Move Down: `S` or `↓`
-- ⬅️ Move Left: `A` or `←`
-- ➡️ Move Right: `D` or `→`
+- ⬆️ Move Up: `W`
+- ⬇️ Move Down: `S`
+- ⬅️ Move Left: `A`
+- ➡️ Move Right: `D`
 
 💡 **Tips:**
 - 🛑 Time your moves carefully to avoid oncoming traffic.
